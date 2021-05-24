@@ -1,0 +1,14 @@
+x_matrix y_matrix
+spawn_x spawn_y
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+nr_mobs
+type_m spawn_x spawn_y raza_attack speed
+nr_hearts
+spawn_x spawn_y
+GATE_TO_NEXT_LEVEL
+
+
+
